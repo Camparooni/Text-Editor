@@ -1,5 +1,5 @@
 {
-  "name": "Text-editor",
+  "name": "jate",
   "version": "1.0.0",
   "description": "a simple text editor",
   "main": "server.js",
